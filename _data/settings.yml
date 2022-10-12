@@ -3,8 +3,7 @@
 title: Jacob Stambaugh
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Jacob Stambaugh
-description: Clancy is a elegant portfolio theme for Jekyll.
-
+description: A portfolio site to showcase some of my work/art.
 
 #-------------------------------
 # Menu Settings
@@ -25,8 +24,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jacob. I’m a Data Scientist/Engineer based in Austin, Texas.
-  hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
+  hero__title: Hello, I'm Jacob Tsambaugh, a Data Scientist/Engineer living in Austin, Texas.
+  hero__description: I am a passionate Data scientist, who has spent the last past few years defining & visualizing complex problems in various domains. From healthcare & biotech to finance & real estate to ecology & biology, I have been solving problems and learning new prospectives and skills to carry with me as I continue to challenge the norms of these spaces. I invite you to navigate my portfolio and learn more about me and my work.
 
 
 #-------------------------------
@@ -69,15 +68,6 @@ portfolio:
     - image: /images/gallery-09.jpg
       title: Books and Laptop
       description: Silver laptop computer with two books on the top <a href="https://unsplash.com/photos/fFIAKABImf4">Unsplash</a>
-
-
-#-------------------------------
-# Subscribe Settings
-mailchimp:
-  mailchimp__title: Get updates and digital art inspiration # Add your Title
-  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  mailchimp__button__text: Subscribe # Add your button text.
-  mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
 
 
 #-------------------------------
