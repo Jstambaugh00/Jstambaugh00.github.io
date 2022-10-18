@@ -5,15 +5,13 @@ permalink: /about/
 image: '/images/01.jpg'
 ---
 
-Leverage agile frameworks to provide a robust [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Hi, I’m Jacob Stambaugh, a multi-disciplined engineer, focused on Data Analytics/Engineering, Statistical Modeling, and Business Intelligence. Adopting a business-centered mindeset, I design and model complex systems that allow for more data driven decsions. I aim to bridge the gap between design, tech, and business by working cross-functionally to understand and model everyday phonenma.
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+I currently live in Austin, Texas where I work at Virtus Real Estate Capital as their sole Data Scientist/Engineer. I am responsible for their entire data pipeline, from web scraping, to various ETL processes, to the final downstream models. Some of the current downstream models include; HMMs for regime detection, random forests for classification, LSTMs for forecasting, and various clustering algorithms to quantify and explain target markets. With this, I am also responsible for communicating the results both within the firm and to critical shareholders.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+During my time at the University of Texas at Austin, I was president of Texas engineering World Health, an organization dedicated to identifying and developing medical solutions for developing nations. During this time, I led intaives to switch from hardware to software projects (due to covid limitations). I spearheaded two major machine learning projects, an image-processing algorithm to classify leukemia-infected cells from healthy cells, and a seizure prevention algorithm using ECG data to predict the onset of a seizure. Both projects used packages like PyTorch, Tensorflow, and Keras to achieve high accuracy. Both of which won the national Engineering World Health design competition in 2021. 
 
 ![Workflow]({{site.baseurl}}/images/03.jpg)
 *Photo by [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) on Unsplash*
@@ -22,11 +20,9 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-### Podcasting
+### Personal Life
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) customer service through sustainable potentialities.
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
+While not working, you can find me hiking in one of Austin's many trails. I am active enjoyer of the wilderness and will often be away on weekends on camping adventures. Additionally, I am an active member of the birding community in my hometown in South Texas which is one of many inspirations for some of the side projects shown on this website!
 
 <div class="gallery-box">
   <div class="gallery">
@@ -37,21 +33,9 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
     <img src="/images/05.jpg">
     <img src="/images/11.jpg">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Gallery</em>
 </div>
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Synergistically evolve
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-<p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
 
 ***
