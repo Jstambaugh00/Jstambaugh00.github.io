@@ -25,7 +25,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, I'm Jacob Stambaugh, a Data Scientist/Engineer living in Austin, Texas.
-  hero__description: I am a passionate Data scientist, who has spent the last past few years defining & visualizing complex problems in various domains. From healthcare & biotech to finance & real estate to ecology & biology, I have been solving problems and learning new prospectives and skills to carry with me as I continue to challenge the norms of these spaces. I invite you to navigate my portfolio and learn more about me and my work.
+  hero__description: I am a passionate Data scientist, who has spent the past few years defining & visualizing complex problems in various domains. From healthcare & biotech to finance & real estate to ecology & biology, I have been solving problems and learning new prospectives and skills to carry with me as I continue to challenge the norms of these spaces. I invite you to navigate my portfolio and learn more about me and my work.
 
 
 #-------------------------------
@@ -87,16 +87,6 @@ contact:
   email: jstambaugh00@email.com # Add your email for contact form
   description:  Feel free to reach out with any business inquiries
 
-# NOTE
-# Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
-
-#-------------------------------
-# Comment Section (Disqus)
-
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
-
-
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics:
