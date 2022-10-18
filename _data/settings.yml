@@ -17,9 +17,6 @@ menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
-
 
 #-------------------------------
 # Hero Settings
@@ -89,4 +86,4 @@ contact:
 
 #-------------------------------
 # Google Analytics
-google-analytics:
+google-analytics: G-7DXXL3Q56P # Add your identifier. For example UA-99631805-1.
