@@ -28,7 +28,7 @@ hero:
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: Portfolio
+  portfolio__title: Visualization Portfolio
   portfolio__gallery:
     - image: /images/gallery-01.jpg
       title: Samantha Gades
@@ -81,7 +81,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: jstambaugh00@email.com # Add your email for contact form
+  email: jstambaugh00@gmail.com # Add your email for contact form
   description:  Feel free to reach out with any business inquiries
 
 #-------------------------------
